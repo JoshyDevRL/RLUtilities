@@ -1,3 +1,5 @@
+> Note: this project is no longer actively maintained.
+
 # Overview
 
 This project provides some tools for car/ball simulation in Rocket League, and some basic controllers that might
